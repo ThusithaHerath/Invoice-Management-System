@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet1" targetNamespace="http://tempuri.org/DataSet1.xsd" xmlns:mstns="http://tempuri.org/DataSet1.xsd" xmlns="http://tempuri.org/DataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSet1" msprop:Generator_UserDSName="DataSet1">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="reciept" msprop:Generator_TableClassName="recieptDataTable" msprop:Generator_TableVarName="tablereciept" msprop:Generator_RowChangedName="recieptRowChanged" msprop:Generator_TablePropName="reciept" msprop:Generator_RowDeletingName="recieptRowDeleting" msprop:Generator_RowChangingName="recieptRowChanging" msprop:Generator_RowEvHandlerName="recieptRowChangeEventHandler" msprop:Generator_RowDeletedName="recieptRowDeleted" msprop:Generator_RowClassName="recieptRow" msprop:Generator_UserTableName="reciept" msprop:Generator_RowEvArgName="recieptRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="invoice_id" msprop:Generator_ColumnVarNameInTable="columninvoice_id" msprop:Generator_ColumnPropNameInRow="invoice_id" msprop:Generator_ColumnPropNameInTable="invoice_idColumn" msprop:Generator_UserColumnName="invoice_id" type="xs:string" minOccurs="0" />
+              <xs:element name="inovoice_total" msprop:Generator_ColumnVarNameInTable="columninovoice_total" msprop:Generator_ColumnPropNameInRow="inovoice_total" msprop:Generator_ColumnPropNameInTable="inovoice_totalColumn" msprop:Generator_UserColumnName="inovoice_total" type="xs:string" minOccurs="0" />
+              <xs:element name="paid_amount" msprop:Generator_ColumnVarNameInTable="columnpaid_amount" msprop:Generator_ColumnPropNameInRow="paid_amount" msprop:Generator_ColumnPropNameInTable="paid_amountColumn" msprop:Generator_UserColumnName="paid_amount" type="xs:string" minOccurs="0" />
+              <xs:element name="due_amount" msprop:Generator_ColumnVarNameInTable="columndue_amount" msprop:Generator_ColumnPropNameInRow="due_amount" msprop:Generator_ColumnPropNameInTable="due_amountColumn" msprop:Generator_UserColumnName="due_amount" type="xs:string" minOccurs="0" />
+              <xs:element name="payment" msprop:Generator_ColumnVarNameInTable="columnpayment" msprop:Generator_ColumnPropNameInRow="payment" msprop:Generator_ColumnPropNameInTable="paymentColumn" msprop:Generator_UserColumnName="payment" type="xs:string" minOccurs="0" />
+              <xs:element name="status" msprop:Generator_ColumnVarNameInTable="columnstatus" msprop:Generator_ColumnPropNameInRow="status" msprop:Generator_ColumnPropNameInTable="statusColumn" msprop:Generator_UserColumnName="status" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Report1" msprop:Generator_TableClassName="Report1DataTable" msprop:Generator_TableVarName="tableReport1" msprop:Generator_TablePropName="Report1" msprop:Generator_RowDeletingName="Report1RowDeleting" msprop:Generator_RowChangingName="Report1RowChanging" msprop:Generator_RowEvHandlerName="Report1RowChangeEventHandler" msprop:Generator_RowDeletedName="Report1RowDeleted" msprop:Generator_UserTableName="Report1" msprop:Generator_RowChangedName="Report1RowChanged" msprop:Generator_RowEvArgName="Report1RowChangeEvent" msprop:Generator_RowClassName="Report1Row">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="invoice_id" msprop:Generator_ColumnVarNameInTable="columninvoice_id" msprop:Generator_ColumnPropNameInRow="invoice_id" msprop:Generator_ColumnPropNameInTable="invoice_idColumn" msprop:Generator_UserColumnName="invoice_id" type="xs:string" minOccurs="0" />
+              <xs:element name="supplier_name" msprop:Generator_ColumnVarNameInTable="columnsupplier_name" msprop:Generator_ColumnPropNameInRow="supplier_name" msprop:Generator_ColumnPropNameInTable="supplier_nameColumn" msprop:Generator_UserColumnName="supplier_name" type="xs:string" minOccurs="0" />
+              <xs:element name="company" msprop:Generator_ColumnVarNameInTable="columncompany" msprop:Generator_ColumnPropNameInRow="company" msprop:Generator_ColumnPropNameInTable="companyColumn" msprop:Generator_UserColumnName="company" type="xs:string" minOccurs="0" />
+              <xs:element name="inovoice_total" msprop:Generator_ColumnVarNameInTable="columninovoice_total" msprop:Generator_ColumnPropNameInRow="inovoice_total" msprop:Generator_ColumnPropNameInTable="inovoice_totalColumn" msprop:Generator_UserColumnName="inovoice_total" type="xs:string" minOccurs="0" />
+              <xs:element name="paid_amount" msprop:Generator_ColumnVarNameInTable="columnpaid_amount" msprop:Generator_ColumnPropNameInRow="paid_amount" msprop:Generator_ColumnPropNameInTable="paid_amountColumn" msprop:Generator_UserColumnName="paid_amount" type="xs:string" minOccurs="0" />
+              <xs:element name="due_amount" msprop:Generator_ColumnVarNameInTable="columndue_amount" msprop:Generator_ColumnPropNameInRow="due_amount" msprop:Generator_ColumnPropNameInTable="due_amountColumn" msprop:Generator_UserColumnName="due_amount" type="xs:string" minOccurs="0" />
+              <xs:element name="status" msprop:Generator_ColumnVarNameInTable="columnstatus" msprop:Generator_ColumnPropNameInRow="status" msprop:Generator_ColumnPropNameInTable="statusColumn" msprop:Generator_UserColumnName="status" type="xs:string" minOccurs="0" />
+              <xs:element name="created_at" msprop:Generator_ColumnVarNameInTable="columncreated_at" msprop:Generator_ColumnPropNameInRow="created_at" msprop:Generator_ColumnPropNameInTable="created_atColumn" msprop:Generator_UserColumnName="created_at" type="xs:string" minOccurs="0" />
+              <xs:element name="insert_by" msprop:Generator_ColumnVarNameInTable="columninsert_by" msprop:Generator_ColumnPropNameInRow="insert_by" msprop:Generator_ColumnPropNameInTable="insert_byColumn" msprop:Generator_UserColumnName="insert_by" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Report2" msprop:Generator_TableClassName="Report2DataTable" msprop:Generator_TableVarName="tableReport2" msprop:Generator_TablePropName="Report2" msprop:Generator_RowDeletingName="Report2RowDeleting" msprop:Generator_RowChangingName="Report2RowChanging" msprop:Generator_RowEvHandlerName="Report2RowChangeEventHandler" msprop:Generator_RowDeletedName="Report2RowDeleted" msprop:Generator_UserTableName="Report2" msprop:Generator_RowChangedName="Report2RowChanged" msprop:Generator_RowEvArgName="Report2RowChangeEvent" msprop:Generator_RowClassName="Report2Row">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="invoice_id" msprop:Generator_ColumnVarNameInTable="columninvoice_id" msprop:Generator_ColumnPropNameInRow="invoice_id" msprop:Generator_ColumnPropNameInTable="invoice_idColumn" msprop:Generator_UserColumnName="invoice_id" type="xs:string" minOccurs="0" />
+              <xs:element name="supplier_name" msprop:Generator_ColumnVarNameInTable="columnsupplier_name" msprop:Generator_ColumnPropNameInRow="supplier_name" msprop:Generator_ColumnPropNameInTable="supplier_nameColumn" msprop:Generator_UserColumnName="supplier_name" type="xs:string" minOccurs="0" />
+              <xs:element name="company" msprop:Generator_ColumnVarNameInTable="columncompany" msprop:Generator_ColumnPropNameInRow="company" msprop:Generator_ColumnPropNameInTable="companyColumn" msprop:Generator_UserColumnName="company" type="xs:string" minOccurs="0" />
+              <xs:element name="inovoice_total" msprop:Generator_ColumnVarNameInTable="columninovoice_total" msprop:Generator_ColumnPropNameInRow="inovoice_total" msprop:Generator_ColumnPropNameInTable="inovoice_totalColumn" msprop:Generator_UserColumnName="inovoice_total" type="xs:string" minOccurs="0" />
+              <xs:element name="paid_amount" msprop:Generator_ColumnVarNameInTable="columnpaid_amount" msprop:Generator_ColumnPropNameInRow="paid_amount" msprop:Generator_ColumnPropNameInTable="paid_amountColumn" msprop:Generator_UserColumnName="paid_amount" type="xs:string" minOccurs="0" />
+              <xs:element name="due_amount" msprop:Generator_ColumnVarNameInTable="columndue_amount" msprop:Generator_ColumnPropNameInRow="due_amount" msprop:Generator_ColumnPropNameInTable="due_amountColumn" msprop:Generator_UserColumnName="due_amount" type="xs:string" minOccurs="0" />
+              <xs:element name="created_at" msprop:Generator_ColumnVarNameInTable="columncreated_at" msprop:Generator_ColumnPropNameInRow="created_at" msprop:Generator_ColumnPropNameInTable="created_atColumn" msprop:Generator_UserColumnName="created_at" type="xs:string" minOccurs="0" />
+              <xs:element name="payment" msprop:Generator_ColumnVarNameInTable="columnpayment" msprop:Generator_ColumnPropNameInRow="payment" msprop:Generator_ColumnPropNameInTable="paymentColumn" msprop:Generator_UserColumnName="payment" type="xs:string" minOccurs="0" />
+              <xs:element name="user_by" msprop:Generator_ColumnVarNameInTable="columnuser_by" msprop:Generator_ColumnPropNameInRow="user_by" msprop:Generator_ColumnPropNameInTable="user_byColumn" msprop:Generator_UserColumnName="user_by" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Alldata" msprop:Generator_TableClassName="AlldataDataTable" msprop:Generator_TableVarName="tableAlldata" msprop:Generator_RowChangedName="AlldataRowChanged" msprop:Generator_TablePropName="Alldata" msprop:Generator_RowDeletingName="AlldataRowDeleting" msprop:Generator_RowChangingName="AlldataRowChanging" msprop:Generator_RowEvHandlerName="AlldataRowChangeEventHandler" msprop:Generator_RowDeletedName="AlldataRowDeleted" msprop:Generator_RowClassName="AlldataRow" msprop:Generator_UserTableName="Alldata" msprop:Generator_RowEvArgName="AlldataRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="invoID" msprop:Generator_ColumnVarNameInTable="columninvoID" msprop:Generator_ColumnPropNameInRow="invoID" msprop:Generator_ColumnPropNameInTable="invoIDColumn" msprop:Generator_UserColumnName="invoID" type="xs:string" minOccurs="0" />
+              <xs:element name="supplier_name" msprop:Generator_ColumnVarNameInTable="columnsupplier_name" msprop:Generator_ColumnPropNameInRow="supplier_name" msprop:Generator_ColumnPropNameInTable="supplier_nameColumn" msprop:Generator_UserColumnName="supplier_name" type="xs:string" minOccurs="0" />
+              <xs:element name="company" msprop:Generator_ColumnVarNameInTable="columncompany" msprop:Generator_ColumnPropNameInRow="company" msprop:Generator_ColumnPropNameInTable="companyColumn" msprop:Generator_UserColumnName="company" type="xs:string" minOccurs="0" />
+              <xs:element name="Invoicr_total" msprop:Generator_ColumnVarNameInTable="columnInvoicr_total" msprop:Generator_ColumnPropNameInRow="Invoicr_total" msprop:Generator_ColumnPropNameInTable="Invoicr_totalColumn" msprop:Generator_UserColumnName="Invoicr_total" type="xs:string" minOccurs="0" />
+              <xs:element name="Paid" msprop:Generator_ColumnVarNameInTable="columnPaid" msprop:Generator_ColumnPropNameInRow="Paid" msprop:Generator_ColumnPropNameInTable="PaidColumn" msprop:Generator_UserColumnName="Paid" type="xs:string" minOccurs="0" />
+              <xs:element name="Due" msprop:Generator_ColumnVarNameInTable="columnDue" msprop:Generator_ColumnPropNameInRow="Due" msprop:Generator_ColumnPropNameInTable="DueColumn" msprop:Generator_UserColumnName="Due" type="xs:string" minOccurs="0" />
+              <xs:element name="payment" msprop:Generator_ColumnVarNameInTable="columnpayment" msprop:Generator_ColumnPropNameInRow="payment" msprop:Generator_ColumnPropNameInTable="paymentColumn" msprop:Generator_UserColumnName="payment" type="xs:string" minOccurs="0" />
+              <xs:element name="order_status" msprop:Generator_ColumnVarNameInTable="columnorder_status" msprop:Generator_ColumnPropNameInRow="order_status" msprop:Generator_ColumnPropNameInTable="order_statusColumn" msprop:Generator_UserColumnName="order_status" type="xs:string" minOccurs="0" />
+              <xs:element name="Status" msprop:Generator_ColumnVarNameInTable="columnStatus" msprop:Generator_ColumnPropNameInRow="Status" msprop:Generator_ColumnPropNameInTable="StatusColumn" msprop:Generator_UserColumnName="Status" type="xs:string" minOccurs="0" />
+              <xs:element name="update_by" msprop:Generator_ColumnVarNameInTable="columnupdate_by" msprop:Generator_ColumnPropNameInRow="update_by" msprop:Generator_ColumnPropNameInTable="update_byColumn" msprop:Generator_UserColumnName="update_by" type="xs:string" minOccurs="0" />
+              <xs:element name="date" msprop:Generator_ColumnVarNameInTable="columndate" msprop:Generator_ColumnPropNameInRow="date" msprop:Generator_ColumnPropNameInTable="dateColumn" msprop:Generator_UserColumnName="date" type="xs:string" minOccurs="0" />
+              <xs:element name="rcpID" msprop:Generator_ColumnVarNameInTable="columnrcpID" msprop:Generator_ColumnPropNameInRow="rcpID" msprop:Generator_ColumnPropNameInTable="rcpIDColumn" msprop:Generator_UserColumnName="rcpID" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

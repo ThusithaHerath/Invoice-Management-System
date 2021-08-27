@@ -1,0 +1,397 @@
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe.config
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.pdb
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Properties.Resources.resources
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.GenerateResource.cache
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.CoreCompileInputs.cache
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.exe
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.pdb
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\EnvDTE.dll
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\stdole.dll
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Microsoft.MSXML.dll
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.CopyComplete
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Form1.resources
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csprojAssemblyReference.cache
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.exe.config
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.main.resources
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\MySql.Data.dll
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Google.Protobuf.dll
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Zstandard.Net.dll
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Renci.SshNet.dll
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\System.Buffers.dll
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\MySql.Data.xml
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.exe.licenses
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Bunifu.Licensing.dll
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Dashboard.resources
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Registernewcustomer.resources
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.users.resources
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.payments.resources
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.reicept.resources
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\RdlCompile.cache
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\RdlCompile.compiled
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.activity.resources
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.reports.resources
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\Interop.WIA.dll
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.ResolveComReference.cache
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Interop.WIA.dll
+C:\Users\SANDUN\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.image_view.resources
+E:\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\Interop.WIA.dll
+E:\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.ResolveComReference.cache
+E:\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.activity.resources
+E:\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Dashboard.resources
+E:\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Form1.resources
+E:\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.image_view.resources
+E:\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.main.resources
+E:\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.payments.resources
+E:\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Properties.Resources.resources
+E:\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Registernewcustomer.resources
+E:\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.reicept.resources
+E:\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.reports.resources
+E:\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.users.resources
+E:\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.GenerateResource.cache
+E:\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.exe.licenses
+E:\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.exe
+E:\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.pdb
+E:\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe.config
+E:\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe
+E:\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.pdb
+E:\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\EnvDTE.dll
+E:\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\stdole.dll
+E:\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Microsoft.MSXML.dll
+E:\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Interop.WIA.dll
+E:\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\RdlCompile.cache
+E:\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\RdlCompile.compiled
+E:\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.CoreCompileInputs.cache
+E:\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.CopyComplete
+E:\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Report1.resources
+E:\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\MySql.Data.dll
+E:\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Google.Protobuf.dll
+E:\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Zstandard.Net.dll
+E:\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\BouncyCastle.Crypto.dll
+E:\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Ubiety.Dns.Core.dll
+E:\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Renci.SshNet.dll
+E:\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\System.Buffers.dll
+E:\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\K4os.Compression.LZ4.dll
+E:\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\K4os.Hash.xxHash.dll
+E:\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\MySql.Data.xml
+E:\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.exe.config
+E:\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Admin.resources
+E:\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csprojAssemblyReference.cache
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe.config
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.pdb
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\MySql.Data.dll
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\EnvDTE.dll
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Google.Protobuf.dll
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Zstandard.Net.dll
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\BouncyCastle.Crypto.dll
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Ubiety.Dns.Core.dll
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Renci.SshNet.dll
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\stdole.dll
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\System.Buffers.dll
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\K4os.Compression.LZ4.dll
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\K4os.Hash.xxHash.dll
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Microsoft.MSXML.dll
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\MySql.Data.xml
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Interop.WIA.dll
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.exe.config
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\Interop.WIA.dll
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.ResolveComReference.cache
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.activity.resources
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.AdminController.resources
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Dashboard.resources
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Form1.resources
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.image_view.resources
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.main.resources
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.payments.resources
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Properties.Resources.resources
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Registernewcustomer.resources
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.reicept.resources
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Report1.resources
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.reports.resources
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.users.resources
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.GenerateResource.cache
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.exe.licenses
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\RdlCompile.cache
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\RdlCompile.compiled
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.CoreCompileInputs.cache
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.CopyComplete
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.exe
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.pdb
+D:\C#\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.frmsupplier.resources
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe.config
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.pdb
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\MySql.Data.dll
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\EnvDTE.dll
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Google.Protobuf.dll
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Zstandard.Net.dll
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\BouncyCastle.Crypto.dll
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Ubiety.Dns.Core.dll
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Renci.SshNet.dll
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\stdole.dll
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\System.Buffers.dll
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\K4os.Compression.LZ4.dll
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\K4os.Hash.xxHash.dll
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Microsoft.MSXML.dll
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\MySql.Data.xml
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Interop.WIA.dll
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.exe.config
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\Interop.WIA.dll
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.ResolveComReference.cache
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.activity.resources
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.AdminController.resources
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Dashboard.resources
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Form1.resources
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.image_view.resources
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.main.resources
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.payments.resources
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Properties.Resources.resources
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Registernewcustomer.resources
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.reicept.resources
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Report1.resources
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.reports.resources
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.users.resources
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.GenerateResource.cache
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.exe.licenses
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\RdlCompile.cache
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\RdlCompile.compiled
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.CoreCompileInputs.cache
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.CopyComplete
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.exe
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.pdb
+E:\20.2 Project\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.frmEmails.resources
